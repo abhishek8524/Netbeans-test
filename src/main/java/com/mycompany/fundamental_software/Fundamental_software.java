@@ -12,7 +12,7 @@ public class Fundamental_software {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-//        Student s1= new Student();
+//        Student s1= new Student();OK
 
         
     }
